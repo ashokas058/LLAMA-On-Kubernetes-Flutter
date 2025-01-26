@@ -3,6 +3,7 @@
 This repository provides instructions for deploying the **Llama3.2:3b** Large Language Model (LLM) on a Kubernetes cluster, using NGINX Ingress Controller to expose the service externally.
 
 ---
+![img.png](img.png)
 
 ## Prerequisites
 
