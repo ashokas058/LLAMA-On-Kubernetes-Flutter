@@ -111,6 +111,9 @@ curl -X POST http://llama.devopsfor.cloud/api/chat \
 ```
 Flutter Example for Testing the Model
 
+![img_1.png](img_1.png)
+
+
 Here is the POST request used to interact with the model from a Flutter application:
 ```
 final url = Uri.parse('http://llama.devopsfor.cloud/api/chat');
