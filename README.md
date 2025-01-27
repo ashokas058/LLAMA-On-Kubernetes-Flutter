@@ -28,6 +28,7 @@ kubectl get pods -n ingress-nginx
 ---
 
 ### 2. Deploy the LLM
+Clone the Repo and go to `manifest` folder
 
 Use the `deploy.yaml` file in the `manifest` folder to deploy the model. Update the model name if required by modifying the `containers` section as shown below:
 
